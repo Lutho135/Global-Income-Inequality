@@ -22,3 +22,18 @@ Income inequality remains a significant challenge both between and within countr
 * We will conduct descriptive statistics to understand the income distribution within and across countries.
 * We will create visualizations, such as bar plots and heatmaps, to illustrate the income distribution patterns.
 * We will compare income inequality trends over time and across countries to identify potential factors contributing to disparities.
+
+* ## Advanced Visualization
+* Advanced visualizations, such as cluster maps, pair plots, swarm plots, and joint plots, were used to provide deeper insights into income inequality patterns.
+
+* ## Conclusion
+* The analysis highlights the distribution of income inequality across continents and years.
+* Income inequality varies across different continents, with Africa and America showing higher levels of inequality.
+* The dataset and analysis can contribute to understanding global income inequality trends and inform policy decisions.
+
+
+
+
+
+
+
