@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-# Income inequality remains one of the most pressing global challenges. This project explores:
+## Income inequality remains one of the most pressing global challenges. This project explores:
 * Trends in income distribution across countries
 * The impact of inequality on development, health, and education
 * Policy measures and their effectiveness in reducing inequality
