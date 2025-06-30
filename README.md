@@ -44,6 +44,12 @@ The data used primarily stems from reputable international organizations, includ
 **Visualizations**: Interactive plots and charts illustrating income disparities across different countries and regions.
 **Reports**: Detailed research papers and summaries analyzing trends, causes, and effects of income inequality.
 
+## Prerequisites
+- **Python**: Version 3.7 or above is recommended.
+- **Key Libraries**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `science`, `jupyter` must be installed alongside Python.
+- **Git**: For cloning the repository.
+- **Jupyter Notebook**: To run the analysis scripts.
+
 
 * ## Conclusion
 * The analysis highlights the distribution of income inequality across continents and years.
