@@ -59,7 +59,10 @@ The data used primarily stems from reputable international organizations, includ
 * * ### References
 
 1. **Data Sources**
-   - [Example Dataset URL](https://example.com/dataset)
+   **Compilation**: Data was collected from multiple international sources including:
+  - World Bank ([World Bank Open Data](https://data.worldbank.org/)).
+  - International Monetary Fund (IMF) ([Data.IMF](https://data.imf.org/?service=data)).
+  - United Nations Development Programme (UNDP) ([UNDP Data](http://TypeDescriptor.edata.undp.org/DropDownSelectCountry.aspx)).
 
 2. **Research Papers**
    - Author(s), Title of the paper, Journal/Conference, Year.
