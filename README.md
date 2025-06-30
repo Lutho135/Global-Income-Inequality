@@ -31,6 +31,22 @@ Income inequality remains a significant challenge both between and within countr
 * Income inequality varies across different continents, with Africa and America showing higher levels of inequality.
 * The dataset and analysis can contribute to understanding global income inequality trends and inform policy decisions.
 
+* * ### References
+
+1. **Data Sources**
+   - [Example Dataset URL](https://example.com/dataset)
+
+2. **Research Papers**
+   - Author(s), Title of the paper, Journal/Conference, Year.
+   - [Example Research Paper URL](https://example.com/paper)
+
+3. **Documentation for Tools and Libraries**
+   - **Scikit-Learn**: [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)
+   - **Pandas**: [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+   - **NumPy**: [NumPy Documentation](https://numpy.org/doc/stable/)
+   - **Plotly**: [Plotly Documentation](https://plotly.com/python/)
+   - **NLTK**: [NLTK Documentation](https://www.nltk.org/
+
 
 
 
