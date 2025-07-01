@@ -69,6 +69,12 @@ The data used primarily stems from reputable international organizations, includ
   - International Monetary Fund (IMF) ([Data.IMF](https://data.imf.org/?service=data)).
   - United Nations Development Programme (UNDP) ([UNDP Data](http://TypeDescriptor.edata.undp.org/DropDownSelectCountry.aspx)).
 
+    ** ✅ GitHub URL
+    - https://github.com/Lutho135/Global-Income-Inequality.git
+   
+    ** ✅ Trello Board URL
+    - https://trello.com/b/Y18XjytP/global-income-inequality
+
 2. **Research Papers**
    - Author(s), Title of the paper, Journal/Conference, Year.
    - [Example Research Paper URL](https://example.com/paper)
