@@ -55,6 +55,11 @@ The data used primarily stems from reputable international organizations, includ
 * The analysis highlights the distribution of income inequality across continents and years.
 * Income inequality varies across different continents, with Africa and America showing higher levels of inequality.
 * The dataset and analysis can contribute to understanding global income inequality trends and inform policy decisions.
+* The dataset provides valuable insights into global income inequality.
+* Most countries have moderate Gini Index values, but some show extreme inequality.
+* There is a visible relationship between average income and inequality.
+* Countries with higher Gini Index tend to have lower income shares for the bottom 10%.
+* Income inequality varies significantly across countries and over time.
 
 * * ### References
 
