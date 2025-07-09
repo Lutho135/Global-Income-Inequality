@@ -4,20 +4,35 @@
 **Global Income Equality** is a data-driven project aimed at understanding and addressing disparities in income distribution across countries and regions. 
  Through data analysis, visualization, and policy insights, this project seeks to promote awareness and drive action toward a more equitable global economy
 
-## Project Overview
+### 📝 Project Overview
 
-## Income inequality remains one of the most pressing global challenges. This project explores:
-* Trends in income distribution across countries
-* The impact of inequality on development, health, and education
-* Policy measures and their effectiveness in reducing inequality
+This notebook presents a comprehensive analysis of global income inequality using data science methodologies. The project examines income distribution patterns across multiple countries and time periods, employing statistical analysis and machine learning techniques to understand and predict economic disparities.
 
-## Current State of Global Income Inequality
-Income inequality remains a significant challenge both between and within countries.
+# 📊 Global Income Inequality Analysis
 
-## Factors Contributing to Income Inequality
-* Globalization: While it has lifted many out of poverty, globalization has also widened the gap between the rich and the poor2.
-* Technological Advancements: Automation and digitalization have disproportionately benefited those with higher skills and capital.
-* Policy Decisions: Tax policies, social welfare programs, and labor laws significantly impact income distribution.
+## 📘 Context and Background
+
+Income inequality is a critical issue affecting economic stability, social cohesion, and development across the globe. It refers to the extent to which income is distributed unevenly among a population. High levels of inequality can lead to reduced economic growth, increased poverty, and social unrest.
+
+This dataset provides a comprehensive view of income distribution across various countries and years. It includes key indicators such as:
+
+- Country and Year  
+- Population  
+- Gini Index (a measure of income inequality)  
+- Average Income (USD)  
+- Income Share of the Top 10% and Bottom 10%  
+- Income Group Classification  
+
+## 🎯 Aim of the Analysis
+
+The goal of this analysis is to:
+
+- Explore global trends in income inequality  
+- Identify disparities between income groups  
+- Understand how income is distributed across different countries and over time  
+- Provide insights that can inform policy decisions and future research  
+
+We will begin by cleaning and preprocessing the data, followed by statistical analysis and visualizations to uncover meaningful patterns and trends.
 
 ## Data Sources
 The data used primarily stems from reputable international organizations, including:
